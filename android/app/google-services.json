@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876811286715",
+    "firebase_url": "https://signup-d8e10.firebaseio.com",
+    "project_id": "signup-d8e10",
+    "storage_bucket": "signup-d8e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876811286715:android:0a90c2c93497648348119e",
+        "android_client_info": {
+          "package_name": "com.example.sign_up_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876811286715-e00823sd7sr22403284nou55f842khjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIW2zroepJgQ-Vf8AoruW7R8HHrjkZU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876811286715-e00823sd7sr22403284nou55f842khjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
